@@ -1,0 +1,1 @@
+For the Enivroment, and the subscription path, use your own google cloud address. Also put FLASK on the Pub-Sub in the cloud using Docker. I am using ShapeE from openAI here for text to 3d assest generation.
